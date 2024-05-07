@@ -1,5 +1,6 @@
 
 In [4]: models.Note.objects.all()
+
 Out[4]: <QuerySet [<Note: Записка 1>, <Note: Записка 2>]>
 
 In [6]: models.Product.objects.all()
